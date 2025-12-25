@@ -1,5 +1,12 @@
 # Bank-UPI-Transaction-2024-Power-BI-Report
 
+Dashboard Link: https://capgemini-my.sharepoint.com/personal/jagadeesan_mohan_capgemini_com/Documents/Bank%20UPI%20Transaction%202024%20From%20Excel.pptx?web=1
+
+Summary
+
+The analytical report provides a comprehensive overview of UPI transaction and balance patterns across Indian banks, cities, and customer demographics for the year 2024. Month‑wise visualizations reveal distinct cyclical trends, including early‑year rises, mid‑year declines, and late‑year recoveries across multiple banks such as SBI, HDFC, Axis, and ICICI. Transaction values remain largely stable within predictable ranges, while balance figures demonstrate strong financial consistency with minor seasonal fluctuations.
+The inclusion of filter panels allows granular exploration across attributes including demographics, city, payment method, and device type. City‑wise comparative data further enhances the depth of analysis by offering multi‑currency financial insights. Overall, the report delivers a clear and data‑driven perspective on UPI transaction behaviors, regional financial performance, and operational stability across the banking ecosystem in 2024.
+
 ![Image](https://github.com/user-attachments/assets/073f07cf-4909-4d9f-ac1a-1dc42363704d)
 
 ![Image](https://github.com/user-attachments/assets/4a14f0a6-8ee2-4593-8228-0aad0753f05b)
